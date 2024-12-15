@@ -1,0 +1,1 @@
+# Predicting-Acceptence-of-the-bank-loan-offers-by-using-support-vector-machines
